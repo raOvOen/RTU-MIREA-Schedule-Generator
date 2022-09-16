@@ -1,0 +1,21 @@
+main:
+  schedule_name: schedule.xlsx
+  output_name: output.docx
+  group_name:
+  first_week_date: 29 08 2022
+additional:
+  work_day_amount: 6
+  work_week_amount: 4
+  table_style: Table Grid
+  weekdays: Понедельник Вторник Среда Четверг Пятница Суббота
+  except_week_words: кр кр. Кр Кр.
+  week_words: н н.
+  document_left_margin_in_mm: 15
+  document_right_margin_in_mm: 15
+  document_top_margin_in_mm: 15
+  document_bottom_margin_in_mm: 15
+  custom_width_flag: False
+  custom_width: 19 6 28 64 10 25 38
+  week_day_row: 2
+  week_day_column: 1
+  group_name_row: 2
