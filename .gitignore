@@ -1,3 +1,4 @@
 *.idea
 /output.docx
-/schedule*.xlsx
+/*schedule*.xlsx
+/Schedule.exe

@@ -3,11 +3,13 @@ main:
   output_name: output.docx
   group_name:
   first_week_date: 29 08 2022
+  coloring_weekdays: True
 additional:
   work_day_amount: 6
-  work_week_amount: 4
+  work_week_amount: 16
   table_style: Table Grid
   weekdays: Понедельник Вторник Среда Четверг Пятница Суббота
+  weekdays_colors: DDA0DD FA8072 FFE4B5 90EE90 AFEEEE 6495ED
   except_week_words: кр кр. Кр Кр.
   week_words: н н.
   document_left_margin_in_mm: 15
